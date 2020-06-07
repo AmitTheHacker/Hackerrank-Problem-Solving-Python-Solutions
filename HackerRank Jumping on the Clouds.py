@@ -15,4 +15,4 @@ while i < n-1:
     else:
         i = i+1
         res += 1
-print(
+print(res)
